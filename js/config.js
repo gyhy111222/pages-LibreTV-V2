@@ -119,38 +119,50 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     },
-    ckzy: {
-        api: 'https://www.ckzy1.com',
-        name: 'CK资源'
+    "api_54": {
+        "name": "AV-JKUN资源",
+        "api": "https://jkunzyapi.com/api.php/provide/vod",
+        "detail": "https://jkunzyapi.com"
     },
-    jkun: {
-        api: 'https://jkunzyapi.com',
-        name: 'jkun资源'
+    "api_55": {
+        "name": "AV-souav资源",
+        "api": "https://api.souavzy.vip/api.php/provide/vod",
+        "detail": "https://api.souavzy.vip"
     },
-    bwzy: {
-        api: 'https://api.bwzym3u8.com',
-        name: '百万资源'
+    "api_56": {
+        "name": "AV-乐播资源",
+        "api": "https://lbapi9.com/api.php/provide/vod",
+        "detail": ""
     },
-    souav: {
-        api: 'https://api.souavzy.vip',
-        name: 'souav资源'
+    "api_57": {
+        "name": "AV-奥斯卡资源",
+        "api": "https://aosikazy.com/api.php/provide/vod",
+        "detail": "https://aosikazy.com"
     },
-    r155: {
-        api: 'https://155api.com',
-        name: '155资源'
+    "api_58": {
+        "name": "AV-奶香香",
+        "api": "https://Naixxzy.com/api.php/provide/vod",
+        "detail": "https://Naixxzy.com"
     },
-    lsb: {
-        api: 'https://apilsbzy1.com',
-        name: 'lsb资源'
+    "api_59": {
+        "name": "AV-森林资源",
+        "api": "https://slapibf.com/api.php/provide/vod",
+        "detail": "https://slapibf.com"
     },
-    huangcang: {
-        api: 'https://hsckzy.vip',
-        name: '黄色仓库',
-        detail: 'https://hsckzy.vip'
+    "api_60": {
+        "name": "AV-淫水机资源",
+        "api": "https://www.xrbsp.com/api/json.php",
+        "detail": "https://www.xrbsp.com"
     },
-    yutu: {
-        api: 'https://yutuzy10.com',
-        name: '玉兔资源'
+    "api_61": {
+        "name": "AV-玉兔资源",
+        "api": "https://apiyutu.com/api.php/provide/vod",
+        "detail": "https://apiyutu.com"
+    },
+    "api_62": {
+        "name": "AV-番号资源",
+        "api": "http://fhapi9.com/api.php/provide/vod",
+        "detail": ""
     },
 
 };
